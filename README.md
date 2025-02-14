@@ -27,7 +27,7 @@ This project is a Fake News Classification App built with Streamlit and Machine 
 │── 📄 README.md              # Project Documentation  
 
 🛠 Installation
-1️⃣ Clone the Repositor
+1️⃣ Clone the Repository
 git clone https://github.com/your-username/fake-news-detection.git  
 cd fake-news-detection  
 
