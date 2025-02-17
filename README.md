@@ -1,15 +1,15 @@
-📰 Fake News Detection App
-🔍 Detect Fake News using Machine Learning
+##Fake News Detection App##
+Detect Fake News using Machine Learning
 This project is a Fake News Classification App built with Streamlit and Machine Learning models to predict whether news content is Real or Fake. It supports text input, voice input, visualizations, and text-to-speech feedback.
 
-🚀 Features
-✅ Multiple Machine Learning Models (Logistic Regression, Decision Tree, Random Forest)
-✅ Text & Voice Input Support
-✅ Real-Time Predictions
-✅ Visualizations for Model Comparison
-✅ Prediction History Tracking
-✅ User Feedback System
-✅ Preloaded News Data (True.csv, Fake.csv) for Testing
+ ##Features##
+- Multiple Machine Learning Models (Logistic Regression, Decision Tree, Random Forest)
+ Text & Voice Input Support
+ Real-Time Predictions
+ Visualizations for Model Comparison
+ Prediction History Tracking
+ User Feedback System
+ Preloaded News Data (True.csv, Fake.csv) for Testing
 
 📂 Project Structure
 📁 fake-news-detection
