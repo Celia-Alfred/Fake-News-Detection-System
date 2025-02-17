@@ -1,5 +1,6 @@
 📰 Fake News Detection App
-🔍 Detect Fake News using Machine Learning
+
+Detect Fake News using Machine Learning
 This project is a Fake News Classification App built with Streamlit and Machine Learning models to predict whether news content is Real or Fake. It supports text input, voice input, visualizations, and text-to-speech feedback.
 
 🚀 Features
@@ -32,7 +33,7 @@ git clone https://github.com/your-username/fake-news-detection.git
 cd fake-news-detection  
 
 2️⃣ Install Dependencies
-pip install -r requirements.txt  
+pip install   
 
 3️⃣ Run the App
 streamlit run app.py 
@@ -40,7 +41,7 @@ streamlit run app.py
 📊 Dataset
 True.csv → Contains real news samples
 Fake.csv → Contains fake news samples
-Source: Kaggle Fake News Dataset
+Source: Kaggle News Dataset
 
 🎤 Usage
 1️⃣ Enter news text manually or use voice input
@@ -50,5 +51,12 @@ Source: Kaggle Fake News Dataset
 
 🌟 Contributions
 Feel free to fork, improve, and submit PRs!
+
+📜 License
+This project is open-source and available under the MIT License.
+
+Developed with ❤️ by [Marie Celia Alfred]
+
+
 
 
