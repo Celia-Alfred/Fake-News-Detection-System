@@ -13,19 +13,8 @@ This project is a Fake News Classification App built with Streamlit and Machine 
 ✅ Preloaded News Data (True.csv, Fake.csv) for Testing
 
 📂 Project Structure
-📁 lang-jupi
-│── 📄 app.py                # Streamlit App
-│── 📂 models                # Pretrained Models
-│   │── model_LR.pkl  
-│   │── model_DT.pkl  
-│   │── model_RF.pkl  
-│   │── vectorizer.pkl  
-│── 📂 data                  # Dataset for Testing
-│   │── True.csv  
-│   │── Fake.csv  
-│── 📂 assets                # Additional Resources  
-│── 📄 requirements.txt       # Dependencies  
-│── 📄 README.md              # Project Documentation  
+![image](https://github.com/user-attachments/assets/173407dd-95b2-4286-a016-ecb7f4ebde6a)
+  
 
 🛠 Installation
 1️⃣ Clone the Repository
