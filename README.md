@@ -1,56 +1,65 @@
-##Fake News Detection App##
+# Fake News Detection App
+
 Detect Fake News using Machine Learning
-This project is a Fake News Classification App built with Streamlit and Machine Learning models to predict whether news content is Real or Fake. It supports text input, voice input, visualizations, and text-to-speech feedback.
+This project is a Fake News Classification App built with Streamlit and Machine Learning models to predict whether news content is real or fake. It supports text input, voice input, visualizations, and text-to-speech feedback.
 
- ##Features##
+## Features
 - Multiple Machine Learning Models (Logistic Regression, Decision Tree, Random Forest)
- Text & Voice Input Support
- Real-Time Predictions
- Visualizations for Model Comparison
- Prediction History Tracking
- User Feedback System
- Preloaded News Data (True.csv, Fake.csv) for Testing
+- Text and Voice Input Support
+- Real-Time Predictions
+- Visualizations for Model Comparison
+- Prediction History Tracking
+- User Feedback System
+- Preloaded News Data (True.csv, Fake.csv) for Testing
 
-📂 Project Structure
+## Project Structure
+
 📁 fake-news-detection
-│── 📄 app.py                # Streamlit App
-│── 📂 models                # Pretrained Models
+│── app.py                # Streamlit App
+│── models                # Pretrained Models
 │   │── model_LR.pkl
 │   │── model_DT.pkl
 │   │── model_RF.pkl
 │   │── vectorizer.pkl
-│── 📂 data                  # Dataset for Testing
+│── data                  # Dataset for Testing
 │   │── True.csv
 │   │── Fake.csv
-│── 📂 assets                # Additional Resources
-│── 📄 requirements.txt       # Dependencies
-│── 📄 README.md             # Project Documentation
+│── assets                # Additional Resources
+│── requirements.txt       # Dependencies
+│── README.md             # Project Documentation
 
-🛠 Installation
-1️⃣ Clone the Repository
-git clone https://github.com/your-username/fake-news-detection.git
-cd fake-news-detection
-2️⃣ Install Dependencies
-pip install -r requirements.txt
-3️⃣ Run the App
-streamlit run app.py
 
-📊 Dataset
-True.csv → Contains real news samples
-Fake.csv → Contains fake news samples
-Source: Kaggle Fake News Dataset
+## Installation
+1. *Clone the Repository:*
+   bash
+   git clone https://github.com/your-username/fake-news-detection.git
+   cd fake-news-detection
+   
+2. *Install Dependencies:*
+   bash
+   pip install -r requirements.txt
+   
+3. *Run the App:*
+   bash
+   streamlit run app.py
+   
 
-🎤 Usage
-1️⃣ Enter news text manually or use voice input
-2️⃣ Click Predict to see if the news is Real or Fake
-3️⃣ View model-wise predictions & combined prediction
-4️⃣ Check visualizations & prediction history
+## Dataset
+- True.csv — Contains real news samples
+- Fake.csv — Contains fake news samples
+- *Source:* Kaggle Fake News Dataset
 
-🌟 Contributions
-Feel free to fork, improve, and submit PRs!
+## Usage
+1. Enter news text manually or use voice input.
+2. Click *Predict* to see if the news is real or fake.
+3. View model-wise predictions and combined prediction.
+4. Check visualizations and prediction history.
 
-📜 License
+## Contributions
+Contributions are welcome. Feel free to fork, improve, and submit pull requests.
+
+## License
 This project is open-source and available under the MIT License.
 
-✨ Developed with ❤️ by Marie Celia Alfred
+Developed by Marie Celia Alfred
 
