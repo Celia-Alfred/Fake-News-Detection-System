@@ -12,35 +12,19 @@ This project is a Fake News Classification App built with Streamlit and Machine 
 - User Feedback System
 - Preloaded News Data (True.csv, Fake.csv) for Testing
 
-## Project Structure
-
-📁 fake-news-detection
-│── app.py                # Streamlit App
-│── models                # Pretrained Models
-│   │── model_LR.pkl
-│   │── model_DT.pkl
-│   │── model_RF.pkl
-│   │── vectorizer.pkl
-│── data                  # Dataset for Testing
-│   │── True.csv
-│   │── Fake.csv
-│── assets                # Additional Resources
-│── requirements.txt       # Dependencies
-│── README.md             # Project Documentation
-
 
 ## Installation
 1. *Clone the Repository:*
-   bash
+   
    git clone https://github.com/your-username/fake-news-detection.git
    cd fake-news-detection
    
-2. *Install Dependencies:*
-   bash
-   pip install -r requirements.txt
+3. *Install Dependencies:*
    
-3. *Run the App:*
-   bash
+   pip install 
+   
+4. *Run the App:*
+   
    streamlit run app.py
    
 
